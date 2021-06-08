@@ -3,6 +3,7 @@
 ## Welcome to SPORT AND FUN
 
 SPORT AND FUN is a project that aims to attract public interest in doing sports, both indoor and outdoor.
+Inviting the community to be more active in carrying out sports activities through organized programs, training systems, tutorials, technology and also through events and rewards
 
 You can use the [editor on GitHub](https://github.com/KOSASIH/Sport-And-Fun/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
