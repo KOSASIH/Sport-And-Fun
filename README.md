@@ -1,7 +1,5 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/KOSASIH/Sport-And-Fun)
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/KOSASIH/Sport-And-Fun)
-
 ## Welcome to SPORT AND FUN
 
 SPORT AND FUN is a project that aims to attract public interest in doing sports, both indoor and outdoor.
